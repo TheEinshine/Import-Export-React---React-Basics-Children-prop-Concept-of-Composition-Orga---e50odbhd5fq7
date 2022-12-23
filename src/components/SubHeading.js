@@ -1,7 +1,7 @@
 import React from 'react'
 
-export default function SubHeading() {
+export default function SubmitButton() {
     return (
-        <h5>Happy to solve you doubts.</h5>
+        <button>Ask</button>     
     )
 }
